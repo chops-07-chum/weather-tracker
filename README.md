@@ -1,3 +1,3 @@
 # weather-tracker
 
-Feel free to experience the basic weather tracker functionality
+## Feel free to experience the basic weather tracker functionality
